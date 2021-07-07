@@ -9,9 +9,8 @@ title: Ammon Nelson's Resume
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://ammonnelson.glitch.me">My Website</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 `Expected 2022`
@@ -23,19 +22,18 @@ Minor: Data Science
 
 ## Related Experience
 
-`April 2027 - June 2027`
-__Built my Website__
+`January 2021 - April 2021`
+__Built Website__
 
 - Developed a website to let future employers get to know me and show them my projects that I have been working on.
 
-### Data Science Consulting Team
+- Learned HTML and CSS and JavaScript
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2021 - July 2021`
+__Tanks__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Built the game Tanks 
+- Worked in a group setting and programmed in classes.
 
 `April 2027 - July 2027`
 __Pinnacle Management Group__, 
@@ -48,7 +46,7 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2017-2019`
-__Service Missionary__, California
+__Service Missionary__, Redlands, California
 
 
 
