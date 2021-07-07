@@ -31,6 +31,7 @@ __Tanks__
 
 - Built the game Tanks 
 - Worked in a group setting and programmed in classes.
+
 ## Service and Work History
 
 `2017-2019`
