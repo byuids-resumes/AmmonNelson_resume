@@ -14,9 +14,9 @@ title: Ammon Nelson's Resume
 
 ## Education
 `Expected 2022`
-__Brigham Young University - Idaho__, Rexburg, ID
-Major: Computer Science
-Minor: Data Science
+__Brigham Young University - Idaho__, Rexburg, Idaho
+- Major: Computer Science
+- Minor: Data Science
 - 3.7 Major GPA
 
 
@@ -35,7 +35,8 @@ __Tanks__
 ## Service and Work History
 
 `2017-2019`
-__Service Missionary__, Redlands, California
+__Service Missionary__, Redlands, California 
+- For the Church of Jesus Christ of Latter-Day Saints
 
 
 
