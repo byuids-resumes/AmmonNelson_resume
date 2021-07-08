@@ -17,7 +17,7 @@ title: Ammon Nelson's Resume
 __Brigham Young University - Idaho__, Rexburg, Idaho
 - Major: Computer Science
 - Minor: Data Science
-- 3.7 Major GPA
+- GPA 3.7
 
 
 ## Relevant Experience
