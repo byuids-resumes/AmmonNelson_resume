@@ -2,7 +2,7 @@
 layout: cv
 title: Ammon Nelson's Resume
 ---
-# Ammon Nelson
+# __Ammon Nelson__
 
 <div id="webaddress">
 <a href="nel17028@byui.edu">Nel17028@byui.edu</a>
@@ -13,7 +13,7 @@ title: Ammon Nelson's Resume
 </div>
 
 ## Education
-`Expected 2022`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, Idaho
 - Major: Computer Science
 - Minor: Data Science
@@ -23,14 +23,19 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 ## Related Experience
 `January 2021 - April 2021`
 __Built Website__
-- Developed a website to let future employers get to know me and show them my projects that I have been working on.
+- Developed my own website future employers get to know me and show them my projects that I have worked on.
 - Learned HTML and CSS and JavaScript
 
 `April 2021 - July 2021`
 __Tanks__
 
-- Built the game Tanks 
-- Worked in a group setting and programmed in classes.
+- Built a video game spin off of the Wii tanks game. 
+- Worked in a group to solve problems and implement new classes into our program.
+
+
+__Old Faithful Fountains__
+- Programmed fountains to satisfy the customer demands on want the fountain look and operation time.
+- Worked as a team to problem solve in the construction and installation of fountains.
 
 ## Service and Work History
 
