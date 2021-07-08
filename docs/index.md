@@ -20,7 +20,7 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 - 3.7 Major GPA
 
 
-## Related Experience
+## Relevant Experience
 `January 2021 - April 2021`
 __Built Website__
 - Developed my own website future employers get to know me and show them my projects that I have worked on.
@@ -44,7 +44,11 @@ __Old Faithful Fountains__
 __Service Missionary__, Redlands, California 
 - For the Church of Jesus Christ of Latter-Day Saints
 
-
+`2014-Current`
+__Eagle Scout__
+- Provided service through doing a Food drive.
+- Participated in many service projects around the city of Allen, Texas. 
+- 
 
 <!-- ### Footer
 
