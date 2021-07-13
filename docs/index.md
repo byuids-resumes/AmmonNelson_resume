@@ -15,22 +15,21 @@ title: Ammon Nelson's Resume
 ## Education
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, Idaho
-- Major: Computer Science
-- Minor: Data Science
+- Major: Computer Science Minor: Data Science
 - GPA 3.7
 
 
 ## Relevant Experience
 `January 2021 - April 2021`
 __Built Website__
-- Developed my own website future employers get to know me and show them my projects that I have worked on.
+- Developed my own website future employers get to know me and show them my projects that I have worked on
 - Learned HTML and CSS and JavaScript
 
 `April 2021 - July 2021`
-__Tanks__
+__Video Game Tanks__
 
-- Built a video game spin off of the Wii tanks game. 
-- Worked in a group to solve problems and implement new classes into our program.
+- Built a video game tanks in python 
+- Worked in a group to solve problems and implement new classes into the Video Game
 
 
 `June 2019 - December 2020`
@@ -43,12 +42,6 @@ __Old Faithful Fountains__
 `2017-2019`
 __Service Missionary__, Redlands, California 
 - For the Church of Jesus Christ of Latter-Day Saints
-
-`2014-Current`
-__Eagle Scout__
-- Provided service through doing a Food drive.
-- Participated in many service projects around the city of Allen, Texas. 
-- 
 
 <!-- ### Footer
 
